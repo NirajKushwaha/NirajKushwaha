@@ -21,7 +21,6 @@
 class Researcher:
     def __init__(self):
         self.name = "Niraj Kushwaha"
-        # self.education = "MSc in Physics"
         self.role = "PhD Candidate"
         self.institution = "Complexity Science Hub and University of Vienna"
         self.location = "Vienna, Austria"
